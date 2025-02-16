@@ -23,7 +23,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone hhttps://github.com/PODTYAZHKI/avito_shop_backend && cd avito_shop_backend
+git clone https://github.com/PODTYAZHKI/avito_shop_backend && cd avito_shop_backend
 ```
 2. Запустить сервисы:
 
